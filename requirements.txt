@@ -1,0 +1,8 @@
+numpy
+pandas
+ortools>=9.10
+lightgbm
+scipy
+matplotlib
+openpyxl
+requests

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/
+results_dunke/plans/
+results_dunke/value_data_*.npz
+results_korea/
+*.zip
+.venv/
